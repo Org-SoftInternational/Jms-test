@@ -16,7 +16,7 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 public class AppConsumer {
 
 	private static final String url="url://127.0.0.1:61616";
-	private static final String queueName="queue-test";
+	private static final String queueName="queue-test1";
 	
 	public static void main(String[] args) throws JMSException {
 		

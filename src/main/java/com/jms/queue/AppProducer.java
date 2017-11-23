@@ -14,7 +14,7 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 public class AppProducer {
 	
 	private static final String url="tcp://127.0.0.1:61616";
-	private static final String queueName="queue-test";
+	private static final String queueName="queue-test1";
 	
 	public static void main(String[] args) throws JMSException {
 		//1.´´½¨ConnectionFactory
